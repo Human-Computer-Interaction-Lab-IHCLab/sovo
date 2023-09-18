@@ -1,0 +1,315 @@
+Género,Edad,Carrera,1. El asistente me permite realizar las tareas facilmente.,2. Me siento comodo con la voz del asistente.,3. Puedo utilizar diferentes frases para realizar una misma tarea.,4. El asistente entiende lo que le digo.,"5. Entiendo lo que me dice el asistente, sus mensajes son claros.",6. El asistente me da informacion confiable.,7. El asistente me responde rapido.,8. Puedo realizar de manera efectiva la tarea que quiero hacer.,"9. Cuando se presenta un error, el asistente me sugiere soluciones que funcionan.","10. Cuando necesito ayuda, el asistente me la proporciona. ",11. Me siento satisfecho con el uso del asistente.,12. Usaria este asistente con frecuencia.,13. Es agradable conversar con el asistente.,14. Es facil aprender a usar el asistente.,"15. Durante la conversacion, me doy cuenta si el asistente me esta escuchando."
+Masculino,24,Cultura Física y Deportes,3,4,3,3,4,3,4,3,3,3,3,3,3,4,3
+Masculino,22,Cultura Física y Deportes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Femenino,20,Cultura Física y Deportes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,37,Cultura Física y Deportes,1,2,2,3,2,2,2,2,2,2,2,2,2,2,2
+Masculino,20,Cultura Física y Deportes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Femenino,20,Cultura Física y Deportes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,21,Cultura Física y Deportes,4,4,4,4,4,5,4,4,4,5,4,4,4,4,4
+Femenino,19,Cultura Física y Deportes,5,4,4,5,4,5,4,4,4,4,4,3,3,4,4
+Masculino,20,Cultura Física y Deportes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,21,Cultura Física y Deportes,5,4,5,4,4,4,4,4,4,4,3,4,4,4,3
+Masculino,21,Cultura Física y Deportes,3,3,2,4,4,3,3,3,3,3,3,3,3,3,3
+Masculino,21,Cultura Física y Deportes,4,4,4,4,5,3,4,5,4,4,4,4,5,4,4
+Masculino,21,Cultura Física y Deportes,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Masculino,43,Cultura Física y Deportes,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Masculino,21,Cultura Física y Deportes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Femenino,20,Cultura Física y Deportes,3,3,3,2,3,4,4,3,3,4,3,3,2,4,3
+Femenino,19,Cultura Física y Deportes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Femenino,33,Cultura Física y Deportes,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Femenino,19,Cultura Física y Deportes,4,4,4,4,4,3,4,4,3,3,4,4,4,4,4
+Femenino,20,Cultura Física y Deportes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,19,Cultura Física y Deportes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Femenino,20,Cultura Física y Deportes,4,4,4,3,3,3,4,4,3,3,3,2,3,3,4
+Masculino,23,Cultura Física y Deportes,5,5,3,5,5,5,5,4,3,5,5,3,5,3,5
+Femenino,20,Cultura Física y Deportes,4,4,3,3,5,4,4,4,5,4,4,4,4,4,4
+Femenino,19,Cultura Física y Deportes,3,3,3,3,3,4,4,3,2,3,3,3,3,3,3
+Masculino,28,Cultura Física y Deportes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,19,Cultura Física y Deportes,3,2,3,3,4,3,4,3,3,3,3,3,3,3,3
+Femenino,28,Cultura Física y Deportes,5,5,5,5,5,5,5,5,4,4,5,5,5,5,4
+Masculino,25,Cultura Física y Deportes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Masculino,22,Cultura Física y Deportes,5,5,5,3,3,3,3,3,3,3,3,3,3,3,3
+Masculino,19,Cultura Física y Deportes,5,5,5,4,3,4,4,4,4,4,4,5,3,4,4
+Masculino,23,Cultura Física y Deportes,4,4,3,4,4,4,3,3,3,4,3,3,3,3,3
+Masculino,20,Cultura Física y Deportes,5,5,4,4,4,5,5,4,5,5,4,4,5,4,4
+Femenino,24,Cultura Física y Deportes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,19,Cultura Física y Deportes,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4
+Masculino,24,Cultura Física y Deportes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Masculino,33,"Seguridad Laboral, ProtecciÃ³n Civil y Emergencias",3,5,5,2,5,5,1,5,1,1,1,1,5,5,5
+Femenino,18,Abogado,4,5,4,5,5,5,5,5,5,5,5,4,5,5,5
+Femenino,18,Abogado,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Femenino,21,Cultura Física y Deportes,5,4,4,4,5,5,5,4,3,5,5,4,4,4,4
+Masculino,37,Cultura Física y Deportes,3,1,3,3,5,5,5,2,3,3,4,4,4,4,4
+Femenino,21,Cultura Física y Deportes,3,2,3,2,2,3,2,2,2,3,3,3,3,3,3
+Masculino,20,Cultura Física y Deportes,5,2,4,5,4,5,3,5,4,5,5,5,1,5,5
+Masculino,22,Cultura Física y Deportes,3,4,1,3,5,5,1,1,5,3,3,3,3,5,4
+Masculino,24,"Seguridad Laboral, ProtecciÃ³n Civil y Emergencias",2,4,4,3,5,3,5,3,5,5,3,3,4,5,5
+Masculino,31,"Seguridad Laboral, ProtecciÃ³n Civil y Emergencias",3,3,3,3,4,4,3,3,3,4,3,4,3,4,3
+Masculino,22,"Seguridad Laboral, ProtecciÃ³n Civil y Emergencias",5,5,5,4,5,5,4,5,5,5,5,4,4,5,5
+Femenino,18,Nutrición,4,3,3,4,5,4,5,5,4,4,4,4,5,5,5
+Masculino,22,"Seguridad Laboral, ProtecciÃ³n Civil y Emergencias",1,1,2,2,2,2,2,2,2,1,2,2,2,2,2
+Femenino,21,"Seguridad Laboral, ProtecciÃ³n Civil y Emergencias",4,4,4,4,5,4,4,4,4,4,4,4,4,5,4
+Masculino,28,"Seguridad Laboral, ProtecciÃ³n Civil y Emergencias",5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Femenino,19,Nutrición,4,1,4,1,5,3,1,4,5,1,4,2,3,1,2
+Masculino,18,Agrobiotecnología,4,4,3,4,4,5,4,3,4,4,4,3,4,4,4
+Femenino,18,Nutrición,4,3,3,4,4,5,3,4,4,4,3,2,2,5,2
+Masculino,18,Agrobiotecnología,3,4,2,1,2,1,2,3,2,3,3,4,3,4,2
+Masculino,17,Médico Cirujano y Partero,3,3,2,2,2,3,2,3,2,2,3,2,3,2,3
+Masculino,28,Médico Cirujano y Partero,3,2,2,3,4,3,2,2,2,2,2,3,3,3,3
+Masculino,19,Agrobiotecnología,3,4,4,4,5,4,4,3,3,4,4,3,4,5,5
+Masculino,17,Nutrición,4,5,4,4,3,5,3,4,2,5,2,3,4,5,5
+Femenino,18,Nutrición,2,4,4,2,5,5,3,3,5,4,3,3,3,3,2
+Femenino,18,Nutrición,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1
+Femenino,20,Nutrición,3,5,4,2,5,4,3,4,2,4,4,4,4,4,4
+Femenino,18,Médico Cirujano y Partero,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Femenino,22,Nutrición,4,4,5,5,5,5,5,4,4,4,4,4,5,5,5
+Femenino,18,Médico Cirujano y Partero,4,4,5,5,4,5,3,4,3,4,4,4,4,4,4
+Masculino,19,Médico Cirujano y Partero,4,4,4,3,4,5,4,4,4,4,4,4,4,4,4
+Femenino,18,Médico Veterinario y Zootecnista,4,4,2,2,5,5,5,3,4,5,4,4,5,5,5
+Femenino,20,Agrobiotecnología,4,4,2,4,4,5,4,4,4,4,4,4,4,4,4
+Femenino,20,Agrobiotecnología,5,4,4,4,4,5,4,4,4,4,4,4,4,5,5
+Femenino,21,Agrobiotecnología,5,3,4,5,4,3,3,3,3,3,3,3,3,3,3
+Femenino,21,Agrobiotecnología,4,4,4,4,4,3,4,4,4,4,4,4,3,4,3
+Masculino,17,Agrobiotecnología,5,5,4,3,5,5,4,5,3,5,4,4,5,5,5
+Masculino,18,Agrobiotecnología,3,3,3,4,5,5,4,3,4,3,4,4,4,4,3
+Femenino,18,Agrobiotecnología,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,18,Agrobiotecnología,4,5,4,5,4,4,5,5,3,4,4,3,4,5,5
+Femenino,18,Agrobiotecnología,3,3,3,2,2,2,2,2,1,2,1,2,2,3,2
+Masculino,17,Agrobiotecnología,5,4,4,4,4,5,5,5,4,5,5,4,5,5,5
+Femenino,19,Médico Cirujano y Partero,3,3,2,4,3,4,3,4,3,4,3,2,4,5,4
+Femenino,19,Médico Cirujano y Partero,3,3,2,3,4,2,3,3,4,4,4,3,2,5,4
+Masculino,18,Agrobiotecnología,2,4,3,2,5,5,2,3,3,3,3,2,2,5,2
+Masculino,18,Agrobiotecnología,5,5,5,5,5,5,4,4,5,5,5,5,5,5,5
+Femenino,20,Agrobiotecnología,3,5,2,1,5,4,5,3,4,4,4,5,5,5,2
+Masculino,18,Agrobiotecnología,5,1,3,3,3,3,3,4,4,4,4,4,4,4,4
+Masculino,18,Agrobiotecnología,3,4,1,3,5,4,3,3,3,4,3,3,4,5,4
+Femenino,18,Agrobiotecnología,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5
+Masculino,18,Agrobiotecnología,1,3,1,1,2,1,3,1,1,1,1,1,1,1,1
+Masculino,17,Agrobiotecnología,5,4,4,5,5,5,4,4,4,3,5,3,5,5,4
+Masculino,19,Agrobiotecnología,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Femenino,18,Agrobiotecnología,4,3,4,4,3,4,3,3,4,4,4,3,3,4,4
+Femenino,20,Agronegocios,2,2,1,1,2,2,4,2,2,2,1,2,2,3,3
+Masculino,22,Agronegocios,3,2,2,2,4,3,3,2,3,3,2,2,1,4,2
+Femenino,20,Cirujano Dentista,3,3,4,4,4,4,4,4,4,4,3,5,4,5,5
+Masculino,20,Cirujano Dentista,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5
+Femenino,22,Cirujano Dentista,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,20,Cirujano Dentista,5,5,5,5,5,5,5,4,5,4,4,4,4,4,5
+Femenino,20,Cirujano Dentista,4,4,4,4,4,4,4,4,4,3,3,3,3,3,4
+Masculino,22,Cirujano Dentista,4,3,4,4,4,3,3,4,4,4,3,4,4,3,3
+Femenino,20,Cirujano Dentista,4,5,4,4,5,5,3,4,3,4,5,4,4,4,5
+Femenino,19,Cirujano Dentista,3,5,2,3,4,3,4,4,3,4,4,5,4,4,2
+Masculino,20,Cirujano Dentista,5,4,5,3,3,4,3,4,4,4,4,4,4,4,4
+Femenino,20,Cirujano Dentista,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,22,Cirujano Dentista,3,4,4,4,4,4,3,4,3,3,4,3,3,3,4
+Femenino,18,Cirujano Dentista,3,1,3,1,5,4,4,3,3,4,2,3,1,4,4
+Femenino,19,Cirujano Dentista,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Femenino,24,Cirujano Dentista,4,5,5,5,5,5,4,5,5,5,5,5,5,5,5
+Masculino,20,Cirujano Dentista,4,5,5,5,4,4,4,5,5,5,4,4,4,4,4
+Femenino,20,Cirujano Dentista,4,4,4,4,5,5,5,4,5,5,5,4,4,5,5
+Femenino,20,Cirujano Dentista,4,5,5,3,4,5,4,5,5,5,5,5,3,5,5
+Masculino,20,Cirujano Dentista,4,4,5,4,5,4,5,4,4,4,4,4,4,5,4
+Femenino,20,Cirujano Dentista,3,1,3,1,1,2,3,3,3,3,2,2,1,4,2
+Femenino,20,Cirujano Dentista,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,19,Cirujano Dentista,3,3,4,2,5,4,3,1,2,1,1,2,3,5,2
+Femenino,20,Cirujano Dentista,3,4,2,3,3,3,3,3,3,2,3,3,3,3,3
+Femenino,20,Cirujano Dentista,4,5,5,4,5,5,5,5,3,4,5,5,5,5,5
+Femenino,20,Cirujano Dentista,3,4,4,3,3,4,4,4,4,4,4,4,3,4,5
+Masculino,20,Cirujano Dentista,3,3,3,2,3,4,2,3,3,3,3,2,2,4,3
+Femenino,20,Cirujano Dentista,3,3,2,3,4,5,5,5,3,4,4,3,2,4,3
+Femenino,20,Cirujano Dentista,3,4,4,4,4,4,4,4,4,4,4,4,4,5,4
+Femenino,25,Letras Hispánicas,3,5,4,2,4,5,5,2,4,4,2,4,4,5,5
+Masculino,19,Ingeniería en Sistemas Biológicos,4,5,5,4,5,5,5,4,4,4,4,4,4,5,5
+Femenino,19,Ingeniería en Sistemas Biológicos,4,3,4,2,5,4,4,3,3,4,2,3,2,5,3
+Femenino,22,Periodismo,2,2,2,2,4,2,2,2,2,2,2,2,2,4,4
+Femenino,21,Ingeniería en Sistemas Biológicos,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Femenino,20,Ingeniería en Sistemas Biológicos,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Femenino,23,Periodismo,1,1,1,1,5,1,1,1,1,1,1,1,1,5,5
+Masculino,18,Periodismo,3,2,4,2,4,4,4,3,4,3,3,2,2,3,4
+Femenino,19,Periodismo,3,4,4,1,3,4,2,1,3,4,2,4,4,4,4
+Masculino,21,Periodismo,3,5,4,5,5,5,4,4,5,5,4,5,5,5,5
+Masculino,20,Desarrollo Turístico Sustentable,1,1,1,1,2,2,1,1,1,1,1,1,1,4,1
+Femenino,23,Ingeniería en Geofísica,3,4,2,2,5,5,3,3,5,4,3,3,3,4,5
+Masculino,20,Desarrollo Turístico Sustentable,4,4,3,4,4,5,4,4,4,5,4,4,4,5,4
+Femenino,19,Desarrollo Turístico Sustentable,2,3,2,2,4,3,3,2,2,2,1,4,2,4,4
+Femenino,19,Desarrollo Turístico Sustentable,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Femenino,19,Desarrollo Turístico Sustentable,4,5,4,2,5,5,5,5,3,4,4,4,5,4,5
+Femenino,21,Desarrollo Turístico Sustentable,4,4,4,3,5,3,4,4,5,4,5,5,4,5,2
+Femenino,19,Desarrollo Turístico Sustentable,3,5,2,2,3,3,2,2,1,2,3,5,5,5,5
+Masculino,20,Desarrollo Turístico Sustentable,3,4,3,2,3,3,4,3,3,4,3,2,4,4,4
+Femenino,28,Periodismo,5,4,5,5,5,5,5,5,1,5,5,5,4,5,5
+Masculino,19,Ingeniería en Telemática,5,4,4,5,5,5,5,5,4,5,5,5,5,5,5
+Masculino,21,Ingeniería en Geofísica,2,5,2,2,5,5,1,2,1,2,3,4,5,5,5
+Femenino,18,Ingeniería en Telemática,2,2,3,2,4,4,2,2,2,2,2,2,2,2,3
+Femenino,21,Ingeniería en Sistemas Biológicos,5,4,4,5,5,5,4,5,4,5,4,3,4,5,5
+Masculino,18,Ingeniería en Telemática,5,5,5,3,3,5,5,3,4,4,4,3,3,4,5
+Masculino,19,Ingeniería en Telemática,4,5,4,4,5,5,5,4,5,4,5,4,5,5,5
+Femenino,18,Ingeniería en Sistemas Biológicos,3,4,4,3,3,4,3,4,3,4,2,4,4,5,4
+Femenino,18,Ingeniería en Sistemas Biológicos,2,3,4,3,3,5,4,4,3,3,4,2,3,3,4
+Femenino,18,Ingeniería en Sistemas Biológicos,2,3,2,2,3,3,2,2,3,3,3,3,3,4,2
+Masculino,19,Ingeniería en Telemática,3,3,3,4,4,4,4,4,3,4,4,4,4,4,4
+Femenino,18,Ingeniería en Sistemas Biológicos,1,3,2,1,5,3,1,1,1,4,2,1,3,1,3
+Femenino,24,Ingeniería en Geofísica,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5
+Femenino,20,Ingeniería en Sistemas Biológicos,1,5,1,3,3,5,4,3,1,1,2,5,4,5,4
+Masculino,18,Ingeniería en Telemática,1,1,1,4,1,1,3,1,5,1,1,3,5,1,1
+Masculino,18,Ingeniería en Telemática,3,4,4,2,4,4,4,3,3,3,3,3,2,4,4
+Masculino,17,Ingeniería en Telemática,3,2,4,4,4,4,4,4,3,4,3,2,3,4,5
+Masculino,18,Ingeniería en Telemática,5,4,4,4,4,5,4,4,4,4,5,3,5,5,5
+Femenino,26,Ingeniería en Sistemas Biológicos,3,4,5,2,5,4,3,3,1,4,2,4,4,4,3
+Femenino,37,Letras Hispánicas,4,5,3,3,4,4,4,4,4,3,2,3,3,2,4
+Femenino,21,Ingeniería en Sistemas Biológicos,4,4,4,3,5,5,4,3,3,4,3,5,5,5,5
+Femenino,23,Ingeniería en Sistemas Biológicos,3,2,4,5,5,5,5,4,4,5,4,2,1,5,5
+Masculino,22,Ingeniería en Telemática,5,5,5,5,4,4,5,4,4,4,5,3,4,4,5
+Masculino,21,Ingeniería en Telemática,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,23,Ingeniería en Telemática,4,5,3,5,5,3,5,5,4,5,5,5,5,5,5
+Masculino,23,Ingeniería en Telemática,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Masculino,20,Ingeniería en Telemática,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Masculino,21,Ingeniería en Telemática,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3
+Masculino,20,Ingeniería en Telemática,3,4,4,4,4,4,4,4,3,3,3,3,3,4,4
+Masculino,20,Ingeniería en Telemática,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Masculino,21,Ingeniería en Telemática,4,4,4,4,4,4,5,4,4,4,4,3,3,4,4
+Masculino,21,Ingeniería en Telemática,5,4,5,5,5,5,4,5,5,5,4,5,3,5,5
+Femenino,23,Ingeniería en Telemática,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5
+Masculino,17,Ingeniería en Telemática,5,4,4,3,5,4,5,4,5,5,4,3,3,5,5
+Masculino,18,Ingeniería en Telemática,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,21,Ingeniería en Telemática,4,5,5,5,5,5,5,5,4,5,5,4,4,4,4
+Femenino,20,Ingeniería en Telemática,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5
+Masculino,18,Ingeniería en Telemática,5,5,5,4,4,4,4,4,4,5,5,5,5,5,5
+Masculino,20,Ingeniería en Telemática,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1
+Masculino,18,Ingeniería en Telemática,4,4,3,3,4,4,4,3,3,5,4,5,5,4,4
+Masculino,23,Ingeniería en Telemática,4,2,3,5,4,4,3,4,3,3,5,3,2,5,3
+Masculino,19,Ingeniería en Telemática,4,4,4,4,4,4,4,4,3,4,4,3,3,4,4
+Femenino,19,Ingeniería en Telemática,2,1,4,3,2,5,4,1,4,2,2,4,3,5,4
+Masculino,19,Ingeniería en Telemática,3,3,3,2,2,3,3,3,2,3,3,3,3,3,3
+Masculino,20,Ingeniería en Telemática,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Masculino,19,Ingeniería en Telemática,3,1,3,3,4,5,4,4,3,4,2,1,1,5,5
+Masculino,20,Ingeniería en Telemática,4,5,4,4,4,5,4,3,4,5,3,2,3,3,4
+Femenino,22,Ingeniería en Telemática,5,4,5,5,5,5,5,5,5,5,5,4,5,5,5
+Masculino,20,Ingeniería en Telemática,4,4,3,3,4,4,3,4,4,3,4,3,3,3,4
+Masculino,20,Ingeniería en Telemática,1,1,2,2,2,1,2,1,3,2,1,1,1,4,3
+Masculino,20,Ingeniería en Telemática,4,5,4,4,5,4,4,5,5,5,4,4,4,4,5
+Masculino,18,Ingeniería en Telemática,4,5,4,5,4,5,5,3,5,5,5,5,5,4,5
+Masculino,21,Ingeniería en Telemática,5,5,4,4,5,5,3,4,3,4,4,4,5,5,5
+Femenino,20,Ingeniería en Telemática,4,4,3,4,4,5,4,4,4,4,5,5,4,5,5
+Masculino,18,Ingeniería en Telemática,3,3,3,2,5,5,2,2,3,3,3,2,4,3,3
+Masculino,21,Ingeniería en Telemática,4,4,3,4,4,4,4,4,4,4,4,3,3,3,4
+Femenino,19,Ingeniería en Telemática,4,5,3,3,5,5,3,3,3,5,3,2,3,5,5
+Masculino,19,Ingeniería en Telemática,4,4,4,4,3,3,2,4,2,1,3,2,1,2,1
+Masculino,18,Ingeniería en Telemática,4,5,4,4,5,5,4,5,2,3,5,4,5,5,5
+Masculino,19,Ingeniería en Telemática,4,2,3,2,4,4,2,4,3,3,3,3,3,4,4
+Masculino,20,Ingeniería en Telemática,5,4,4,5,5,5,5,5,5,5,5,5,5,5,5
+Masculino,18,Ingeniería en Telemática,4,4,3,4,4,4,4,4,3,4,4,3,4,4,4
+Masculino,19,Ingeniería en Telemática,4,5,4,4,5,5,3,4,3,4,5,4,5,5,5
+Masculino,21,Ingeniería en Telemática,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,22,Ingeniería en Telemática,4,5,5,3,4,5,5,4,3,4,4,5,5,5,5
+Femenino,18,Ingeniería en Telemática,4,5,3,4,5,5,4,4,5,4,4,4,5,4,4
+Masculino,23,Ingeniería en Telemática,3,3,4,4,4,3,4,3,4,4,3,3,3,3,4
+Masculino,25,Ingeniería en Telemática,3,4,2,2,4,4,4,3,3,3,3,3,4,5,4
+Masculino,20,Ingeniería en Telemática,2,1,1,1,2,1,3,1,1,1,1,1,1,1,1
+Masculino,19,Ingeniería en Telemática,4,4,4,4,3,4,4,3,4,5,4,4,4,3,5
+Masculino,19,Ingeniería en Telemática,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Femenino,23,Ingeniería en Telemática,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,20,Ingeniería en Telemática,4,4,4,3,5,5,5,3,2,5,5,3,4,5,5
+Masculino,20,Ingeniería en Telemática,3,4,3,4,4,3,4,3,3,4,4,4,4,4,4
+Masculino,20,Ingeniería en Telemática,4,3,4,3,4,3,3,3,5,5,3,3,3,4,4
+Masculino,20,Ingeniería en Telemática,4,4,4,5,5,5,4,4,4,4,4,4,4,5,5
+Masculino,20,Ingeniería en Telemática,4,5,4,4,4,5,4,4,3,5,4,4,5,5,5
+Masculino,20,Ingeniería en Telemática,4,2,3,4,3,5,4,4,4,5,3,3,3,5,4
+Masculino,22,Ingeniería en Telemática,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Masculino,22,Ingeniería en Telemática,5,2,5,5,5,5,4,5,3,5,5,2,2,5,5
+Masculino,21,Ingeniería en Telemática,2,4,1,2,4,4,4,3,3,3,2,4,4,5,4
+Masculino,22,Ingeniería en Telemática,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Femenino,22,Ingeniería en Telemática,3,3,3,2,5,2,3,2,2,2,2,3,2,2,5
+Femenino,18,Enfermería,4,4,4,3,5,4,4,4,4,4,4,5,4,4,5
+Masculino,22,Ingeniería en Telemática,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4
+Masculino,22,Ingeniería en Telemática,3,4,4,3,5,5,4,4,4,4,5,4,5,5,5
+Femenino,18,Negocios Internacionales,3,4,4,4,3,4,2,3,3,3,3,2,3,4,3
+Masculino,21,Ingeniería en Telemática,5,5,5,5,5,5,3,5,5,5,5,5,5,5,5
+Masculino,25,Ingeniería en Telemática,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3
+Masculino,20,Ingeniería en Telemática,5,4,4,5,4,5,4,4,4,5,5,5,5,4,5
+Masculino,22,Ingeniería en Telemática,4,4,4,4,3,4,5,5,4,4,5,5,5,5,5
+Masculino,18,Enfermería,4,5,4,4,4,4,4,4,3,4,4,5,5,5,5
+Masculino,22,Ingeniería en Telemática,2,1,1,3,5,1,5,4,1,3,3,5,3,5,5
+Femenino,18,Enfermería,4,4,4,5,5,5,5,4,5,5,5,5,5,5,5
+Masculino,21,Ingeniería en Telemática,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Femenino,20,Enfermería,3,5,3,3,2,4,3,3,3,3,2,3,4,5,3
+Femenino,20,Enfermería,5,5,3,4,5,5,5,3,3,4,3,4,5,5,5
+Masculino,20,Ingeniería en Telemática,3,5,4,2,3,3,1,2,2,3,3,4,4,4,3
+Masculino,22,Ingeniería en Telemática,3,4,4,4,4,5,4,3,1,5,4,3,4,5,4
+Masculino,24,Ingeniería en Telemática,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3
+Femenino,20,Ingeniería en Telemática,3,5,5,3,4,3,5,3,4,4,4,3,3,5,5
+Masculino,22,Ingeniería en Telemática,3,1,1,1,1,5,5,2,1,3,1,1,1,5,2
+Femenino,29,Nutrición,4,3,4,4,4,4,3,3,3,3,3,4,4,4,4
+Femenino,19,Nutrición,3,2,4,4,4,5,3,4,3,4,4,4,2,5,4
+Femenino,19,Enfermería,2,5,2,2,2,4,2,2,2,3,1,2,4,5,5
+Femenino,21,Ingeniería en Telemática,5,5,3,4,5,4,5,5,3,3,5,5,5,4,4
+Prefiero no decirlo,23,Ingeniería en Telemática,5,5,4,5,5,5,5,4,3,4,3,2,2,5,5
+Masculino,22,Ingeniería en Telemática,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Femenino,20,Ingeniería en Telemática,4,4,4,4,4,4,4,4,3,4,4,5,5,5,5
+Masculino,21,Ingeniería en Telemática,4,3,3,3,5,5,4,4,4,4,3,3,3,5,4
+Masculino,23,Ingeniería en Telemática,4,3,3,3,5,4,5,3,3,3,4,4,3,5,3
+Masculino,21,Ingeniería en Telemática,3,5,3,3,5,5,4,4,4,4,4,2,4,4,4
+Masculino,17,Nutrición,4,4,3,2,4,5,2,4,4,4,4,4,4,5,4
+Masculino,38,Ingeniería en Telemática,4,4,3,4,4,5,4,3,3,3,3,3,4,4,5
+Femenino,20,Ingeniería en Telemática,4,2,3,4,5,4,3,3,4,4,4,5,4,5,5
+Femenino,20,Ingeniería en Telemática,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5
+Masculino,18,Enfermería,5,5,4,4,4,5,4,4,4,4,5,4,5,5,4
+Femenino,18,Enfermería,2,4,2,2,2,4,2,2,2,3,4,3,2,4,3
+Masculino,23,Ingeniería en Telemática,5,4,5,5,5,5,5,5,5,5,5,5,4,5,5
+Femenino,21,Ingeniería en Telemática,4,5,3,5,5,5,4,3,5,5,4,4,5,5,5
+Femenino,17,Negocios Internacionales,4,2,4,3,3,4,4,3,3,4,3,3,2,4,4
+Masculino,19,Enfermería,3,5,4,2,4,5,4,3,2,4,3,3,2,4,4
+Masculino,25,Enfermería,4,4,3,3,5,5,4,3,4,4,4,4,4,4,3
+Femenino,18,Nutrición,3,4,4,4,4,4,4,4,3,4,4,4,4,5,4
+Femenino,22,Nutrición,5,5,4,5,5,5,5,5,5,5,5,4,4,4,5
+Femenino,18,Negocios Internacionales,4,5,4,5,5,5,5,5,5,4,5,5,5,5,5
+Masculino,18,Enfermería,4,3,5,4,4,4,4,4,5,5,4,4,4,4,4
+Masculino,18,Enfermería,3,4,3,2,4,4,3,3,3,3,3,2,3,3,3
+Femenino,18,Enfermería,3,5,2,1,2,3,3,3,2,3,2,2,3,4,3
+Femenino,18,Nutrición,5,5,4,3,5,5,5,5,3,4,4,5,5,5,4
+Femenino,17,Nutrición,3,3,4,3,5,5,3,3,3,4,3,3,3,3,2
+Femenino,19,Enfermería,3,4,3,2,1,3,2,3,3,3,3,3,4,4,5
+Femenino,19,Enfermería,2,5,3,2,4,5,2,2,3,4,2,3,4,5,4
+Masculino,18,Nutrición,4,4,3,4,4,4,4,4,5,5,3,4,4,5,5
+Femenino,18,Nutrición,4,4,3,4,5,5,5,3,3,4,5,5,5,5,5
+Femenino,17,Nutrición,5,4,4,4,5,5,5,5,5,5,5,5,4,5,5
+Femenino,21,Nutrición,4,4,4,4,5,5,4,4,4,4,4,4,4,4,4
+Femenino,19,Nutrición,4,5,4,5,4,5,4,5,4,5,5,5,5,5,5
+Femenino,17,Enfermería,3,4,4,3,4,4,4,3,3,3,3,3,4,5,4
+Femenino,19,Nutrición,3,4,3,4,4,4,3,3,3,3,4,3,4,4,3
+Femenino,17,Nutrición,3,4,3,3,3,5,5,4,3,5,4,3,3,5,5
+Femenino,18,Enfermería,3,3,3,4,2,5,2,3,4,4,3,3,3,2,3
+Femenino,17,Nutrición,2,3,2,2,4,3,3,2,2,3,3,3,4,4,4
+Femenino,17,Enfermería,3,3,4,2,4,4,3,2,4,2,3,3,4,5,5
+Femenino,18,Enfermería,4,5,3,4,2,5,5,4,5,5,4,5,5,5,5
+Masculino,18,Enfermería,5,5,4,5,5,5,5,4,4,4,5,3,5,5,5
+Masculino,18,Enfermería,4,5,3,4,5,5,5,4,4,4,5,4,5,5,5
+Femenino,18,Enfermería,4,5,3,2,4,4,5,3,1,4,4,4,2,5,3
+Femenino,17,Enfermería,5,3,5,4,5,5,5,5,5,5,5,5,5,5,5
+Femenino,18,Enfermería,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5
+Femenino,17,Nutrición,4,4,3,4,5,4,5,3,3,4,4,3,4,4,4
+Femenino,18,Enfermería,4,5,4,3,4,4,3,4,3,4,4,4,4,5,5
+Femenino,17,Enfermería,4,3,4,5,5,5,5,5,5,5,5,5,5,5,5
+Femenino,19,Enfermería,4,5,5,4,5,5,5,5,5,5,5,5,5,5,4
+Femenino,19,Nutrición,3,2,3,2,4,4,3,2,2,4,3,4,2,5,4
+Femenino,18,Nutrición,4,4,4,2,4,4,1,3,1,4,4,4,4,4,1
+Femenino,19,Enfermería,4,3,2,3,3,4,4,2,1,4,3,3,4,5,4
+Femenino,19,Enfermería,2,5,3,3,5,5,1,3,5,5,3,3,3,5,5
+Femenino,17,Nutrición,4,5,3,4,4,5,4,4,4,5,4,5,5,5,5
+Femenino,17,Negocios Internacionales,4,2,3,2,4,5,4,3,4,5,4,3,3,5,5
+Femenino,19,Enfermería,4,5,4,4,5,5,4,4,4,5,4,5,5,5,5
+Femenino,18,Enfermería,4,3,4,3,4,4,4,4,3,4,4,4,3,3,4
+Femenino,19,Nutrición,4,4,3,3,4,4,3,4,2,4,5,4,4,5,4
+Femenino,19,Enfermería,3,4,3,2,4,4,3,3,3,3,2,2,4,5,5
+Femenino,19,Nutrición,4,5,4,4,5,5,4,4,5,4,4,4,5,5,4
+Femenino,18,Nutrición,4,4,2,3,4,4,3,4,4,4,4,4,4,4,4
+Femenino,21,Enfermería,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4
+Femenino,18,Negocios Internacionales,4,5,4,4,5,5,5,4,4,4,5,5,5,5,4
+Femenino,18,Negocios Internacionales,4,5,4,5,5,4,5,4,4,4,3,4,4,5,4
+Femenino,18,Enfermería,4,3,4,4,4,4,3,3,4,4,4,4,3,4,3
+Femenino,18,Enfermería,3,4,3,3,4,4,4,4,4,4,4,4,5,3,4
+Masculino,19,Enfermería,5,4,4,4,5,5,3,4,5,4,5,5,5,5,4
+Femenino,18,Enfermería,1,1,1,2,2,2,2,2,1,1,2,1,1,1,2
+Femenino,18,Nutrición,3,5,4,3,5,5,4,4,3,4,4,5,5,5,5
+Femenino,18,Enfermería,3,4,2,2,1,3,2,2,3,3,2,2,2,3,2
+Femenino,19,Enfermería,4,1,4,4,5,5,5,3,4,4,4,5,4,5,5
+Masculino,18,Enfermería,4,3,5,4,4,4,4,4,5,5,4,4,4,4,4
