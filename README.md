@@ -1,12 +1,12 @@
-
+![Graphical abstract for the paper SOVO: Usability Questionnaire for Voice-Only User Interfaces.](https://github.com/Human-Computer-Interaction-Lab-IHCLab/sovo/blob/3afa4586fa18d31d5639102bc35551214494753a/graphical_abstract.png)
 
 Resources and extra documentation for the manuscript "SOVO: Usability Questionnaire for Voice-Only User Interfaces" published in IEEE Latin America Transactions.
 
-**Description:**
+## Description
 
 This R code is used to perform statistical analysis involving the calculation of diagnostic tests, polychoric correlation matrices, and factor analysis. The aim is to validate an instrument and develop an exploratory factor model.
 
-**Installation Instructions:**
+## Installation Instructions
 
 1. Make sure you have R installed on your system. If not, you can download it from the [official R website](https://www.r-project.org/).
 
@@ -30,7 +30,7 @@ install.packages("data.table")
 install.packages("flextable")
 ```
 
-**Usage Instructions:**
+## Usage Instructions
 
 1. Place your data file in CSV format in the same directory where you are working, and make sure its name is "data.csv." Alternatively, modify the line that says `data <- read.csv("data.csv", check.names=FALSE)` to match the location and name of your file.
 
